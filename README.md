@@ -1,1 +1,1 @@
-# Ex2
+# Exercise 2
